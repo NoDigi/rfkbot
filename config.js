@@ -11,14 +11,15 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = 'https://chat.whatsapp.com/Jxe836o7w9L9EhaYPkyZdV'
-gc2 = ''
-gc3 = ''
+gc1 = 'https://chat.whatsapp.com/BCkOrQkTa7pIORSOWyBJpk'
+gc2 = 'https://chat.whatsapp.com/GzDQlgoUamS5Ok4EOcYRRB'
+ownerbot = 'wa.me/60189830350'
+sc = 'bacot lu dex'
 global.linkGC = ['https://chat.whats', 'https://chat.whatsap'] // ganti jadi group lu
-global.owner = ['6283822759168'] // Put your number here //owner eval
-global.kontak = ['6283822759168','0'] //Ketika ada yang ngetik #owner
+global.owner = ['60189830350'] // Put your number here //owner eval
+global.kontak = ['60189830350','60149431385'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['6283822759168'] // Premium user has unlimited limit
+global.prems = ['60189830350'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -33,7 +34,7 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey' (apikey kalian)
   'https://api.xteam.xyz': 'Dawnfrostkey',
-  'https://api.lolhuman.xyz': 'RFK-Rey',
+  'https://api.lolhuman.xyz': '886e0ade87d2da2cab7f1906',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
@@ -47,20 +48,20 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Nih kak`
-namakontak1 = 'Andrii Street Moonshine'
-namakontak2 = 'Andrii Street Moonshine'
+namakontak1 = 'Lyn official ?🤙'
+namakontak2 = 'Bot Lyn ?🤙'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By Andrii Street Moonshine' // ganti aja
-global.author = 'Andrii Street Moonshine' // ganti aja
+global.packname = 'By © Lyn' // ganti aja
+global.author = 'Offcial' // ganti aja
 
 //yyy
 bc = 'RFK' //ANDRIIxBOTZ Broadcast
-footer = '\n©ANDRIIxBOTZ'
-namabot = 'ANDRIIxBOTZ'
-namalu = 'Andrii Street Moonshine'
+footer = '\n©LYNxBOTZ'
+namabot = 'LYNxBOTZ'
+namalu = 'Lyn Offcial🤙'
 
 
 // 
