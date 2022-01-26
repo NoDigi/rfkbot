@@ -13,8 +13,8 @@
 
 gc1 = 'https://chat.whatsapp.com/BCkOrQkTa7pIORSOWyBJpk'
 gc2 = 'https://chat.whatsapp.com/GzDQlgoUamS5Ok4EOcYRRB'
-ownerbot = 'wa.me/60189830350'
-sc = 'bacot lu dex'
+gc3 = ''
+
 global.linkGC = ['https://chat.whats', 'https://chat.whatsap'] // ganti jadi group lu
 global.owner = ['60189830350'] // Put your number here //owner eval
 global.kontak = ['60189830350','60149431385'] //Ketika ada yang ngetik #owner
