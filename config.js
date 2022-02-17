@@ -22,6 +22,7 @@ global.mods = ['0'] // Want some help?
 global.prems = ['60189830350'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
+  rey: 'https://server-api-rey.herokuapp.com',
   nrtm: 'https://nurutomo.herokuapp.com', 
   xteam: 'https://api.xteam.xyz',
   zahir: 'https://zahirr-web.herokuapp.com',
@@ -33,6 +34,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey' (apikey kalian)
+  'https://server-api-rey.herokuapp.com': 'apirey',
   'https://api.xteam.xyz': 'f6898e891be84fcd',
   'https://api.lolhuman.xyz': '886e0ade87d2da2cab7f1906',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
